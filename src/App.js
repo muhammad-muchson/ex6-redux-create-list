@@ -4,7 +4,7 @@ import { PersistGate } from "redux-persist/integration/react"
 
 import Home from "./component/Home"
 import { store, persistor } from "./store/store"
-
+//app js
 function App() {
   return (
     <div className="App">
